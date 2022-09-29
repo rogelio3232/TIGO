@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
+http://181.175.41.170:8000/play/a0fb
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://181.175.41.170:8000/play/a0fc
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NT HD
+http://181.175.41.170:8000/play/a0ih
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",CINECANAL HD
+http://181.175.41.170:8000/play/a0g3
+#EXTINF:0 tvg-id="CNNInternacional.ar" group-title="Channels",CNN Internacional SD
+http://181.175.41.170:8000/play/a0gy
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 HD - SLV
+http://181.175.41.170:8000/play/a0ec
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 13 - PAN
+http://181.175.41.170:8000/play/a0j5
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Channels",Caracol HD
+http://181.175.41.170:8000/play/a0j7
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central HD
+http://181.175.41.170:8000/play/a0gb
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISC THEATHER HD
+http://181.175.41.170:8000/play/a0g8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
+http://181.175.41.170:8000/play/a0gs
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Discovery ID HD
+http://181.175.41.170:8000/play/a0gw
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",Discovery Kids HD
+http://181.175.41.170:8000/play/a0ef
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",Discovery World HD
+http://181.175.41.170:8000/play/a0gt
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! Entertairment HD
+http://181.175.41.170:8000/play/a0f9
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD
+http://181.175.41.170:8000/play/a0gn
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Channels",ESPN 3 HD
+http://181.175.41.170:8000/play/a0gm
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
+http://181.175.41.170:8000/play/a0j8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
+http://181.175.41.170:8000/play/a0gl
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ecuavisa FHD
+http://181.175.41.170:8000/play/a029
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ecuavisa SD
+http://181.175.41.170:8000/play/a02a
+#EXTINF:0 tvg-id="ext" group-title="Channels",Europa HD
+http://181.175.41.170:8000/play/a0ff
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX SPORTS 2 HD
+http://181.175.41.170:8000/play/a0g6
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Channels",FOX SPORTS 3 HD
+http://181.175.41.170:8000/play/a0go
+#EXTINF:0 tvg-id="ext" group-title="Channels",FUTV HD CR
+http://181.175.41.170:8000/play/a0gk
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+http://181.175.41.170:8000/play/a0fe
+#EXTINF:0 tvg-id="ESPN.nl" group-title="Channels",Fox Sports 1 HD
+http://181.175.41.170:8000/play/a0i7
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLPERU HD
+http://181.175.41.170:8000/play/a0i3
+#EXTINF:0 tvg-id="ext" group-title="Channels",GolTV HD
+http://181.175.41.170:8000/play/a0id
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Channels",Golf Channel HD
+http://181.175.41.170:8000/play/a0fk
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO Family HD
+http://181.175.41.170:8000/play/a0e2
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://181.175.41.170:8000/play/a0dz
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus HD
+http://181.175.41.170:8000/play/a0e1
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME
+http://181.175.41.170:8000/play/a0ii
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO2 HD
+http://181.175.41.170:8000/play/a0e0
+#EXTINF:0 tvg-id="ext" group-title="Channels",HOLA! TV HD
+http://181.175.41.170:8000/play/a0ga
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
+http://181.175.41.170:8000/play/a0ig
+#EXTINF:0 tvg-id="HomeyHealthHD.cl" group-title="Channels",Home & Health HD
+http://181.175.41.170:8000/play/a0g9
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 00s HD
+http://181.175.41.170:8000/play/a0gd
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV HD
+http://181.175.41.170:8000/play/a0f3
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes HD
+http://181.175.41.170:8000/play/a0i2
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",Nat Geo HD
+http://181.175.41.170:8000/play/a0gp
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick SIM HD
+http://181.175.41.170:8000/play/a0g5
+#EXTINF:0 tvg-id="ext" group-title="Channels",OROMAR Movil
+http://181.175.41.170:8000/play/a02p
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oromar FHD
+http://181.175.41.170:8000/play/a02n
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oromar SD
+http://181.175.41.170:8000/play/a02o
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",Paramount HD
+http://181.175.41.170:8000/play/a0gq
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pasiones HD
+http://181.175.41.170:8000/play/a0gu
+#EXTINF:0 tvg-id="RTSHD.rs" group-title="Channels",RTS FHD
+http://181.175.41.170:8000/play/a02f
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS Movil
+http://181.175.41.170:8000/play/a02g
+#EXTINF:0 tvg-id="set" group-title="Channels",SONY HD
+http://181.175.41.170:8000/play/a0g2
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR CHANNEL HD
+http://181.175.41.170:8000/play/a0g0
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Movies HD
+http://181.175.41.170:8000/play/a0fg
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",Studio Universal HD
+http://181.175.41.170:8000/play/a0f6
+#EXTINF:0 tvg-id="ext" group-title="Channels",TD+2 HD CR
+http://181.175.41.170:8000/play/a0ee
+#EXTINF:0 tvg-id="ext" group-title="Channels",TD+HD CR
+http://181.175.41.170:8000/play/a0ed
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEAMAZONAS FHD
+http://181.175.41.170:8000/play/a02h
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEAMAZONAS Movil
+http://181.175.41.170:8000/play/a02j
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEAMAZONAS SD
+http://181.175.41.170:8000/play/a02i
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD
+http://181.175.41.170:8000/play/a0g7
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT Series HD
+http://181.175.41.170:8000/play/a0gr
+#EXTINF:0 tvg-id="TeenNick.it" group-title="Channels",Teen Nick HD
+http://181.175.41.170:8000/play/a0f5
+#EXTINF:0 tvg-id="TelemundoEast.us" group-title="Channels",Telemundo HD
+http://181.175.41.170:8000/play/a0fd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports HD
+http://181.175.41.170:8000/play/a0g4
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL CINEMA HD
+http://181.175.41.170:8000/play/a0gx
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL CINEMA SD
+http://181.175.41.170:8000/play/a0dy
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL COMEDY HD
+http://181.175.41.170:8000/play/a0gi
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL COMEDY SD
+http://181.175.41.170:8000/play/a0fx
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL CRIME HD
+http://181.175.41.170:8000/play/a0gh
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL CRIME SD
+http://181.175.41.170:8000/play/a0fw
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL PREMIERE HD
+http://181.175.41.170:8000/play/a0ge
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL PREMIERE O HD
+http://181.175.41.170:8000/play/a0gf
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL REALITY HD
+http://181.175.41.170:8000/play/a0gg
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL REALITY SD
+http://181.175.41.170:8000/play/a0fv
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Channels",Univision HD
+http://181.175.41.170:8000/play/a0gv
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",WARNER HD
+http://181.175.41.170:8000/play/a0g1
